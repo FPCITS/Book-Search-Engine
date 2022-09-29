@@ -5,7 +5,6 @@
     "node": "18.x",
     "npm": "8.x"},
   "description": "",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "watch": "nodemon server.js",
