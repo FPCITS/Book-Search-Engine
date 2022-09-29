@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is to disply our ability to create a GraphQL API built with Apollo Server. The app will be built using the MERN stack, MongoDB database, Node.js/Express.js server and API, with a React front end. 
+This project is to display our ability to create a GraphQL API built with Apollo Server. The app will be built using the MERN stack, MongoDB database, Node.js/Express.js server and API, with a React front end. 
 
 
 ![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
