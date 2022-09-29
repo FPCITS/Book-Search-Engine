@@ -1,8 +1,9 @@
 {
   "name": "book-search-engine",
   "version": "1.0.0",
-  "engines":{
-    "node": "18.x"},
+  "engines": {
+    "node": "18.x"
+  },
   "description": "## Description",
   "main": "server/server.js",
   "scripts": {
@@ -25,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/FPCITS/Book-Search-Engine/issues"
   },
-  "homepage": "https://github.com/FPCITS/Book-Search-Engine#readme"
+  "homepage": "https://github.com/FPCITS/Book-Search-Engine#readme",
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  }
 }
