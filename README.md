@@ -22,8 +22,11 @@ This project is to display our ability to create a GraphQL API built with Apollo
 
  Step 1: Clone the code <br>
  Step 2: Locate the cloned code via terminal <br>
- Step 3: Run "npm install" <br>
- Step 4: Run "npm start". <br>
+ Step 3: Navigate to the client folder and run "npm install" <br>
+ Step 4: Navigate to the server folder and run "npm install"
+ <br>
+ Step 5: Navigate to root folder and run "npm start" to access GraphQl. 
+ Navigate to 
 
       
 ## Contribution
