@@ -29,6 +29,7 @@
   "homepage": "https://github.com/FPCITS/Book-Search-Engine#readme",
   "dependencies": {
     "node.js": "^0.0.1-security",
-    "semver": "^7.3.7"
+    "semver": "^7.3.7",
+    "utils": "^0.3.1"
   }
 }

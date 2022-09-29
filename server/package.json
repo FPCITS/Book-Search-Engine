@@ -21,7 +21,8 @@
     "graphql": "^16.5.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.14",
-    "semver": "^7.3.7"
+    "semver": "^7.3.7",
+    "utils": "^0.3.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
