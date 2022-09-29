@@ -2,7 +2,8 @@
   "name": "book-search-engine",
   "version": "1.0.0",
   "engines": {
-    "node": "18.x"
+    "node": "18.x",
+    "npm": "13.x"
   },
   "description": "## Description",
   "main": "server/server.js",
