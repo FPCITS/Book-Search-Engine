@@ -6,7 +6,7 @@
     "npm": "8.x"
   },
   "description": "## Description",
-    "scripts": {
+  "scripts": {
     "start": "node server/server.js",
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/FPCITS/Book-Search-Engine#readme",
   "dependencies": {
-    "node.js": "^0.0.1-security"
+    "node.js": "^0.0.1-security",
+    "semver": "^7.3.7"
   }
 }
