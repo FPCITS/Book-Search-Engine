@@ -4,7 +4,7 @@
 
 This project is to display our ability to create a GraphQL API built with Apollo Server. The app will be built using the MERN stack, MongoDB database, Node.js/Express.js server and API, with a React front end. 
 
-
+You may access the [deployed link here]()
 ![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
 
 
@@ -26,7 +26,7 @@ This project is to display our ability to create a GraphQL API built with Apollo
  Step 4: Navigate to the server folder and run "npm install"
  <br>
  Step 5: Navigate to root folder and run "npm start" to access GraphQl. 
- Navigate to 
+ Navigate to client folder and run "npm start" to run app. *If you are already running GraphQl on localhost you will be asked to run app on different port. Type Y for yes*
 
       
 ## Contribution
