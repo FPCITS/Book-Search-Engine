@@ -12,7 +12,8 @@ const SignupForm = () => {
     email: "",
     password: "",
   });
-  const [addUser, { error }] = useMutation(ADD_USER);
+  // eslint-disable-next-line no-unused-vars
+  const [addUser, { data, error }] = useMutation(ADD_USER);
 
   // set state for form validation
   const [validated] = useState(false);
